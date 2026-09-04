@@ -206,15 +206,6 @@ Movie Recommendations
 
 ---
 
-## 🖥️ Project Output
-
-### Movie Recommendation
-
-```markdown
-## Streamlit Output
-![Streamlit Output](./images/output1.png)
-```
-
 ## 🔮 Future Improvements
 
 The project can be enhanced by adding:
